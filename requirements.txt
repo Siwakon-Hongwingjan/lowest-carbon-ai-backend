@@ -1,3 +1,3 @@
-fastapi
-uvicorn
-modelcontextprotocol
+fastapi==0.110.0
+uvicorn[standard]==0.30.0
+pydantic==2.7.0
